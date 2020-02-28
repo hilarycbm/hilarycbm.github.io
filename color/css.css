@@ -1,0 +1,17 @@
+h1{
+	color: green;
+}
+h2{
+	color: rgb(62,149,63);
+}
+/*rgba = opacidad*/
+h3{
+	color: rgba(62,149,63,.5);
+}
+p{
+	color: rgb(10%,20%,30%);
+}
+
+h4{
+	color: #4D9B44;
+}
